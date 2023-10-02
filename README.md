@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at **mikael.sourati@epitech.eu**.
 
-- 😢 I'm sad because most of my commits are made on **private repositories** and therefore not counted in my Github stats
+- 😢 I'm sad because most of my commits are made on **private repositories**/on Gitea and therefore not counted in my Github stats
 
 ## Connect with Me
 
