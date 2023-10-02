@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at **mikael.sourati@epitech.eu**.
 
-- 😢 I'm sad because most of my commits are made on **Gitea** and therefore not counted in my Github stats
+- 😢 I'm sad because a lot of my commits are made on **Gitea** and therefore not counted in my Github stats
 
 ## Connect with Me
 
