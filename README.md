@@ -13,6 +13,8 @@
   
 - 🥸 Currently interested in blockchain and AI
 
+- 📫 Currently trying to master Golang
+
 ## Connect with Me
 
 <p align="left">
