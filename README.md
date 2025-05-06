@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **mikael.sourati@epitech.eu**.
   
-- 🥸 Currently interested in blockchain and AI
+- 🥸 Currently interested in AI
 
 - 📫 Currently trying to master Golang
 
