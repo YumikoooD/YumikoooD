@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **mikael.sourati@epitech.eu**.
   
-- 🥸 Constently learning about AI
+- 🥸 Continually learning about AI
 
 ## Connect with Me
 
