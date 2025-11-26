@@ -1,28 +1,62 @@
-<h1 align="center">Hi 👋, I'm YumikoooD</h1>
-<h3 align="center">Developer from France</h3>
+<h1 align="center">Mikael Sourati</h1>
+<h3 align="center">AI Product Engineer • Real-Time Voice & Agents</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yumikoood&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://linkedin.com/in/mikael-sourati">LinkedIn</a> •
+  <a href="mailto:mikael.sourati@epitech.eu">Email</a>
 </p>
+
+---
 
 ## About Me
 
-- 🔭 I'm currently studying at **Epitech Technology**.
+I'm an AI Product Engineer focused on **real-time voice interfaces**, **LLM-powered agents**, and **fast end-to-end product building**.
 
-- 📫 You can reach me at **mikael.sourati@epitech.eu**.
-  
-- 🥸 Continually learning about AI
+I build products from scratch – from idea → prototype → production – combining:
+- **AI engineering** (STT/LLM/TTS pipelines)
+- **full-stack development** (Python, React, Next.js)
+- **product thinking & UX**
 
-## Connect with Me
+My goal: create natural, human-like AI experiences that solve real problems.
 
-<p align="left">
-  <a href="https://twitter.com/yumikoood" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/mikael-sourati" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+---
 
-## Languages and Tools
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Selected Projects
+
+### **Voice Email Assistant (OpenAI Realtime + Gmail API)**
+A real-time voice-driven assistant that listens, reasons, and manages email actions autonomously.  
+Built with OpenAI's Realtime API (STT → LLM → TTS), Gmail OAuth, WebSockets, and a minimal React frontend.  
+**Repo:** <https://github.com/YumikoooD/gmailVoiceToVoice>
+
+---
+
+### **SofIA — Bpifrance AI Hackathon Winner ($5K)**
+A voice-based assistant that listens to founders describe their project and **auto-fills Bpifrance’s full application form**.  
+Reduced a critical 40-min drop-off step to **5 minutes**.  
+Selected by Bpifrance for continuation after the event.  
+**Repo:** <https://github.com/YumikoooD/Hackathon-BPI>
+
+---
+
+### **Fair Grants — Fraud Detection Pipeline (Eth Prague)**
+Designed and built an open-data pipeline to detect Sybil attack patterns in quadratic funding.  
+Python, Flask, PostgreSQL, Gitcoin API, TheGraph API.  
+**Repo:** <https://github.com/YumikoooD/Fair-Grants>
+
+---
+
+## Skills
+
+- **AI & Voice:** STT/LLM/TTS pipelines, prompt engineering, low-latency architecture  
+- **Backend:** Python, WebSockets, cloud APIs, AWS (Transcribe, Polly)  
+- **Frontend:** React, Next.js  
+- **Product:** UX design, rapid prototyping, end-to-end feature delivery
+
+---
+
+## Currently
+
+- Studying at **Epitech Technology** (MSc CS, 2022–2027)  
+- Working on real-time AI systems & voice-driven experiences
+
+---
