@@ -1,5 +1,5 @@
 <h1 align="center">Mikael Sourati</h1>
-<h3 align="center">AI Product Engineer • Real-Time Voice & Agents</h3>
+<h3 align="center">AI Builder • Real-Time Voice & Agents</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mikael-sourati">LinkedIn</a> •
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm an AI Product Engineer focused on **User Experience**.
+I'm an AI Builder focused on **User Experience**.
 
 I build products from scratch – from idea → prototype → production – combining:
 - **AI engineering** (AI Agents, STT/LLM/TTS pipelines...)
