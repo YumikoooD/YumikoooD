@@ -13,7 +13,7 @@
 I'm an AI Builder focused on **User Experience**.
 
 I build products from scratch – from idea → prototype → production – combining:
-- **AI engineering** (AI Agents, STT/LLM/TTS pipelines...)
+- **AI engineering** (AI Agents, STT/LLM/TTS pipelines, Realtime Voice AI...)
 - **full-stack development** (Python, React, Next.js, Golang...)
 - **product thinking & UX**
 
